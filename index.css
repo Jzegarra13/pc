@@ -1,0 +1,11 @@
+.contenedor {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 20px;
+border: 1px solid #ccc;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
